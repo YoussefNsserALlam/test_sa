@@ -1,5 +1,5 @@
 body{
-    background-color: #ffeb3b;
+    background-color: #f9ca24;
 }
 .iml{
     width: 100%;
@@ -24,7 +24,7 @@ body{
 .mop{
     width: 50%;
     border-radius: 50%;
-    box-shadow: 0px 0px 18px #0000004f;
+    /* box-shadow: 0px 0px 18px #0000004f; */
     margin: 10px;
 }
 .mnf{
